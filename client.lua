@@ -1,5 +1,3 @@
-
-
 Framework = nil
 
 local CurrentCops = 0
